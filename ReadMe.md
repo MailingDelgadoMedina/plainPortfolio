@@ -9,9 +9,8 @@ Este projecto fué hecho siguiendo un taller ofrecido por Jen Kramer en vivo.
 ### Technologies used/ Technologías usadas
  Lenguajes utilizados:
 
- -HTML
- -CSS intermediate/ CSS intermedio
+ - HTML
+ - CSS intermediate/ CSS intermedio
 
  #### Deployed on Netlify/ Publicado en Netlify
 
- 
