@@ -74,24 +74,40 @@ h3 {
 /* Estilos del footer */
 
 footer{
-    margin: 0;
-    padding: 0;
+   
     background-color: var(--plum);
-
+    position: relative;
+    bottom: -30px;
 }
 
 .contact{
-    align-items: center;
+    text-align: center;
 }
 
 ul{
-    display: flex;
+    /* display: flex;
     padding-top: 4rem;
     padding-bottom: 4rem;
- margin: 2rem 12rem;
+ margin: 2rem 30rem; */
+
+ list-style-type: none;
+ padding: 0;
+ margin: 0;
+ display: flex;
+ flex-flow: row wrap;
+ justify-content: center;
+ gap: 3rem;
+ font-size: 3rem;
     
 }
 
 li{
     list-style-type: none;
+}
+
+svg{
+    stroke: white;
+    fill: white;
+    height: 40px;
+    width: 100px;
 }
